@@ -1,8 +1,8 @@
 # VLAN-InterVLAN-Routing-Project
-## 🚀 Overview
+# Overview
 This project demonstrates VLAN segmentation and Inter-VLAN routing using Router-on-a-Stick in Cisco Packet Tracer.
 
-## 🧠 Concepts Used
+# Concepts Used
 - VLAN creation (10, 20, 30)
 - Access & Trunk ports
 - 802.1Q encapsulation
@@ -10,23 +10,23 @@ This project demonstrates VLAN segmentation and Inter-VLAN routing using Router-
 - Inter-VLAN communication
 - Troubleshooting (request timeout, VLAN mismatch)
 
-## 🛠 Tools
+# Tools
 - Cisco Packet Tracer
 
-## 📡 Topology
+# Topology
 - 1 Router
 - 1 Switch
 - 3 PCs
 - Trunk link between Router & Switch
 
-## ⚙️ Configuration Highlights
+# Configuration Highlights
 - Router subinterfaces (G0/0.10, .20, .30)
 - Switch trunk port (Fa0/4)
 - VLAN mapping with PCs
 
-## ✅ Result
+# Result
 ✔ All VLANs can successfully communicate  
 ✔ Ping success across networks  
 
-## 📁 Project File
+# Project File
 - VLAN_InterVLAN_Routing_Project.pkt
